@@ -7,7 +7,7 @@ Verisetleri icin
 [130k Data Drive Link](https://drive.google.com/file/d/13GFnCYUgeUPg5P4OB9M85eoMEDWeZCFS/view?usp=sharing)
 
 #depremadres data repoda mevcut: sample_data.csv
-
+:)
 **Yapilmasi gerekenler**
 
 1. Depremle ilgili elimizde olan verilerin analiz edilmesi.
